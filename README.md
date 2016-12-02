@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+An Elixir App that will help generate an identity icon for the user given the username as a string.
 
 ## Installation
 
